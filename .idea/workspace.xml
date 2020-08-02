@@ -6,7 +6,10 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7bdfff45-dea2-43d8-a578-e1bc3766c763" name="Default Changelist" comment="" />
+    <list default="true" id="7bdfff45-dea2-43d8-a578-e1bc3766c763" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/applicationContext.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -31,8 +34,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/applicationContext.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="446">
-              <caret line="47" column="7" lean-forward="true" selection-start-line="44" selection-start-column="67" selection-end-line="47" selection-end-column="7" />
+            <state relative-caret-position="309">
+              <caret line="33" column="43" selection-start-line="33" selection-start-column="43" selection-end-line="33" selection-end-column="43" />
             </state>
           </provider>
         </entry>
@@ -48,7 +51,6 @@
         <option value="$PROJECT_DIR$/web/WEB-INF/web.xml" />
         <option value="$PROJECT_DIR$/src/mybatis-config.xml" />
         <option value="$PROJECT_DIR$/web/WEB-INF/views/list.jsp" />
-        <option value="$PROJECT_DIR$/src/applicationContext.xml" />
         <option value="$PROJECT_DIR$/src/dispatcherServlet-servlet.xml" />
         <option value="$PROJECT_DIR$/src/db.properties" />
         <option value="$PROJECT_DIR$/src/com/liuweiwei/bean/Department.java" />
@@ -58,6 +60,7 @@
         <option value="$PROJECT_DIR$/src/com/liuweiwei/handler/EmployeeHandler.java" />
         <option value="$PROJECT_DIR$/src/com/liuweiwei/mapper/EmployeeMapper.java" />
         <option value="$PROJECT_DIR$/src/com/liuweiwei/mapper/EmployeeMapper.xml" />
+        <option value="$PROJECT_DIR$/src/applicationContext.xml" />
       </list>
     </option>
   </component>
@@ -68,9 +71,9 @@
     <option name="FILTER_DEBUG" value="true" />
     <option name="CUSTOM_FILTER" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-664" />
-    <option name="y" value="26" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="347" />
+    <option name="y" value="105" />
     <option name="width" value="1576" />
     <option name="height" value="940" />
   </component>
@@ -80,7 +83,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -151,6 +153,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -286,7 +289,9 @@
       <workItem from="1594441473014" duration="2718000" />
       <workItem from="1594452558818" duration="1228000" />
       <workItem from="1595125639015" duration="375000" />
-      <workItem from="1596277364525" duration="1104000" />
+      <workItem from="1596277364525" duration="1359000" />
+      <workItem from="1596278782099" duration="641000" />
+      <workItem from="1596339513582" duration="599000" />
     </task>
     <task id="LOCAL-00001" summary="[2020-8-1]ssm-20180508">
       <created>1596277433600</created>
@@ -323,17 +328,23 @@
       <option name="project" value="LOCAL" />
       <updated>1596278342850</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="[2020-8-1]ssm-20180508">
+      <created>1596278500918</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1596278500918</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7584000" />
+    <option name="totallyTimeSpent" value="9079000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-664" y="26" width="1576" height="940" extended-state="0" />
-    <editor active="true" />
+    <frame x="347" y="105" width="1576" height="940" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23021108" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23680739" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -485,8 +496,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/applicationContext.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="446">
-          <caret line="47" column="7" lean-forward="true" selection-start-line="44" selection-start-column="67" selection-end-line="47" selection-end-column="7" />
+        <state relative-caret-position="309">
+          <caret line="33" column="43" selection-start-line="33" selection-start-column="43" selection-end-line="33" selection-end-column="43" />
         </state>
       </provider>
     </entry>
